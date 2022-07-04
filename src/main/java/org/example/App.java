@@ -9,11 +9,7 @@ public class App
     private int age;
     public static void main( String[] args )
     {
-        System.out.println( "Hxx" );
-        System.out.println( "Hx" );
-        System.out.println( "Hx" );
-        System.out.println( "Hx" );
-        System.out.println( "Hx" );
-        System.out.println( "Hx" );
+        System.out.println( "H55555555" );
+
     }
 }
