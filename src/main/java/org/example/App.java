@@ -9,6 +9,6 @@ public class App
     private int age;
     public static void main( String[] args )
     {
-        System.out.println( "Hxxxx" );
+        System.out.println( "Hxx" );
     }
 }
